@@ -1,0 +1,76 @@
+.. _中研院GIS應用支援工具集: http://www.ascc.sinica.edu.tw/gis/ISTIS/tools.html
+.. _中研院: http://www.sinica.edu.tw/index.shtml
+
+.. _Quantum GIS: http://www.qgis.org/en/site/
+.. _操作手冊: http://docs.qgis.org/2.2/en/docs/training_manual/
+
+.. _Zonum Solutions: http://www.zonums.com/index.html
+
+.. _MyGeodata: http://mygeodata.eu/
+.. _MyGeodata Converter: http://converter.mygeodata.eu/
+.. _ZIP codes search by address, address search by ZIP code (world-wide): http://zip.mygeodata.eu/
+
+.. _MapTiler: http://www.maptiler.org/
+.. _GIS Tech: http://gis-tech.blogspot.tw/
+.. _影像地圖套疊Google Map的好工具 - Map Tile Cutter: http://gis-tech.blogspot.tw/2010/03/map-tile-cutter.html 
+
+
+GIS 軟體工具介紹與連結
+-------------------------------------------------------------------------------
+
+`中研院GIS應用支援工具集`_
+===============================================================================
+`中研院GIS應用支援工具集`_ \是我國\ `中研院`_ \GIS團隊實際處理空間資料時所發展的軟體工具，
+每一項軟體皆可直接下載到個人電腦使用，並且附有軟體使用說明。
+
+網站提供的軟體工具大致可分為數值圖與影像處理、數值地形分析、空間屬性資料庫處理、檔案管理四\
+類別，其中\ **第14項 ShpTrans** \是網站中頗受好評的軟體之一，可將市面上最常見的向量格式shapefile\
+檔案所含的地理座標批次轉換成我國常用的地理座標。
+
+ .. image:: .\yc_images\軟體工具網站\1.jpg
+	:align: center
+	:scale: 100
+
+`Zonum Solutions`_
+===============================================================================
+`Zonum Solutions`_ \是一名亞利桑那大學學生所建立的網站，網站內富含網站作者所開發的遙測與GIS工具，這些工具\
+可以下載安裝或線上使用，使用者可依其所好進行使用。
+
+ .. image:: .\yc_images\軟體工具網站\3.jpg
+	:align: center
+	:scale: 100
+
+`MyGeodata`_
+===============================================================================
+`MyGeodata`_ \是一個整合線上GIS服務的網站，該網站可以轉換多種GIS檔案格式，還可以輸入世界各地地址或郵遞區號查詢地理座標。
+
+ - 要使用GIS檔案格式轉換，請點選 `MyGeodata Converter`_ \；
+
+ - 要查詢地址或郵遞區號的地理位置，請點選 `ZIP codes search by address, address search by ZIP code (world-wide)`_ \。
+
+ .. image:: .\yc_images\軟體工具網站\4.jpg
+	:align: center
+	:scale: 100
+
+`Quantum GIS`_
+===============================================================================
+`Quantum GIS`_ \(簡稱QGIS)是一套開放原始碼的地理資訊系統軟體，任何人皆可直接下載到個人電腦使用。QGIS\
+具有完整的\ `操作手冊`_ \(英文)及遍布世界各地的志工社群，因此使用上有任何問題，皆可快速獲得解決。
+
+QGIS不僅可以檢視、編輯與建立不同格式的GIS資料，還提供專業的地理分析功能，如套疊分析、環域分析、地形分析...\
+等。此外，QGIS擁有遍及全世界的使用者與開發員，故有許多實用的額外功能被創建出來，例如可以直接在QGIS中瀏覽、套疊\
+線上地圖(如：Google Map、Bing Map)。上述特性使QGIS在實務運用上更加便捷。
+
+ .. image:: .\yc_images\軟體工具網站\2.jpg
+	:align: center
+	:scale: 50
+
+`MapTiler`_
+===============================================================================
+`MapTiler`_ \是一套產製網路地圖的影像處理軟體，能將大幅影像資料套疊到網路地圖上，如Google map、Yahoo Maps、OpenStreetMap...等。\
+使用者在瀏覽經\ `MapTiler`_ \處理所產生的地圖時，瀏覽器會以高效率讀取方式讀取影像，不會有影像資料過於龐大導致讀取速度緩慢的困擾。\
+MapTiler軟體操作方法可參考\ `GIS Tech`_ \部落格發表的專題文章『\ `影像地圖套疊Google Map的好工具 - Map Tile Cutter`_ \』
+
+ .. image:: .\yc_images\軟體工具網站\5.jpg
+	:align: center
+	:scale: 100
